@@ -12,7 +12,6 @@ Análise dos picks do 1º round dos drafts da NHL e PWHL 2026, com foco em ident
 
 - 🏒 **92%** dos picks da PWHL vieram de universidades da NCAA
 - 🇨🇦 O **Canadá** lidera a NHL com 47% dos picks do 1º round
-- 📊 A NHL teve **8 ligas diferentes** representadas — na PWHL, a NCAA é quase um monopólio
 
 ## Ferramentas
 
